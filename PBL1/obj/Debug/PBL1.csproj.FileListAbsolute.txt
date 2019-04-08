@@ -1,0 +1,7 @@
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\bin\Debug\PBL1.exe.config
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\bin\Debug\PBL1.exe
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\bin\Debug\PBL1.pdb
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\obj\Debug\PBL1.csprojAssemblyReference.cache
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\obj\Debug\PBL1.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\obj\Debug\PBL1.exe
+C:\Users\Mustafa Bey\source\repos\PBL1\PBL1\obj\Debug\PBL1.pdb
